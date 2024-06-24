@@ -7,7 +7,7 @@ description = 'Development area for mdavis.me and fhrp.org'
 homepage = 'https://gitlab.com/mdavis2810614/hugo-emm-theme-mdavis/'
 
 # If you have a running demo of the theme
-# demosite = 'https://mdavis.me/'
+# demosite = 'https://matthewd.xyz/'
 
 # Taxonomy terms
 tags = ['blog', 'biography', 'minimal']
